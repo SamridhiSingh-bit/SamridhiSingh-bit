@@ -15,7 +15,9 @@
 <a href="mailto:samridhisingh715@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://leetcode.com/u/_SamridhiSingh/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </div>
 
 
