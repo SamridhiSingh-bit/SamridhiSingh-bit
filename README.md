@@ -5,7 +5,11 @@
 ### `CSE (AI/ML) Student` • `Java Developer` • `DSA Enthusiast`
 
 **Building • Learning • Solving • Leading**
+<div align="center">
 
+<img src="https://leetcard.jacoblin.cool/_SamridhiSingh?theme=dark&font=Baloo&ext=heatmap"/>
+
+</div>
 <a href="https://github.com/SamridhiSingh-bit">
   <img src="https://img.shields.io/badge/GitHub-SamridhiSingh--bit-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
