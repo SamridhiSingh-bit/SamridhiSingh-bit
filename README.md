@@ -55,7 +55,7 @@ A health-focused application combining backend development, database management 
 
 ---
 
-### ⚖️ DebateHub
+### ⚖️ DebateX
 **Backend Platform for Structured Debates**
 
 A platform designed around topic-based discussions and two-person debate rooms.
